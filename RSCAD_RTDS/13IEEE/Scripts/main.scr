@@ -1,0 +1,23 @@
+#include "\\plasma.caps.fsu.edu\HIL-TB\rtds\GtLogger\Scripts\GtProfiles.scr"
+//#include "\\plasma.caps.fsu.edu\staff\langston\RTDSFunctions\baseFunctions.scr"
+#include "\\plasma.caps.fsu.edu\HIL-TB\rtds\GtLogger\Scripts\GlogFunctions.scr"
+
+int profile_server = 7;
+cfgGtProfile(profile_server, "GTNETSKT1", "mapping.csv", "Profile.csv");
+
+// cfgGtfpgaDataLog("LG","Scripts/LogSignals.txt","//plasma.caps.fsu.edu/Scratch/GTFPGARecorder/two/LogSignals.txt");
+int GLOGGER_NB = 2;
+cfg_gtlogger_signals("LG", GLOGGER_NB, "Scripts/LogSignals.txt");
+update_gtlogger_config(GLOGGER_NB, "Scripts/Config.txt"); // use local configuration
+
+SetSwitch "Subsystem #1 : CTLs : Inputs : Profile_en" = 0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : LGUsen" = 0;
+MasterPlotLockState = 1;
+Start;
+SUSPEND 30.0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : Profile_en" = 1;
+SetSwitch "Subsystem #1 : CTLs : Inputs : LGUsen" = 1;
+SUSPEND 300.0; // wait 1 hr
+SetSwitch "Subsystem #1 : CTLs : Inputs : Profile_en" = 0;
+SetSwitch "Subsystem #1 : CTLs : Inputs : LGUsen" = 0;
+Stop;

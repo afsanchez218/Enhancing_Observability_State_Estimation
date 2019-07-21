@@ -1,0 +1,11 @@
+[bit 0]
+EVERYPOINT = 200
+pretriggertsteps = 1
+derived_cols = true
+move_to = SCRATCH/GTFPGARecorder/test_logger/FR2-7-Bit0.mat
+
+[bit 1]
+EVERYPOINT = 16667
+pretriggertsteps = 1
+derived_cols = true
+move_to = SCRATCH/GTFPGARecorder/test_logger/FR2-7-Bit1.mat

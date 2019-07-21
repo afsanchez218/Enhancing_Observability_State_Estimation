@@ -1,0 +1,5 @@
+#include "\\plasma.caps.fsu.edu\HIL-TB\rtds\GtLogger\Scripts\GTxProfiles.scr"
+
+cfgGtProfile("GTNETSKT1_to.txt", "GTNETSKT1_from.txt", "mapping.csv", "ExampleProfile.csv");
+
+Start;
