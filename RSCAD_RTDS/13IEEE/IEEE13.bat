@@ -1,0 +1,1 @@
+"C:\RSCAD_5\BIN\rtdspc4.exe" -PP -PSCAD_MASTER "C:\RSCAD_5" -PSCAD_USER "C:\RTDS_USER" -PSCAD_PATH "C:\RSCAD_5\BIN" -username afs17b -CONFIG_FILE "\\plasma.caps.fsu.edu\CAPS\software\RSCAD\HDWR\config_file_03.txt" -case "C:\RTDS_USER\fileman\13IEEE\IEEE13" -rack 7 -verbose -numProcessors 1 -Options "C:\RSCAD_5\BIN\..\BIN\bat.options"
