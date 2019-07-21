@@ -1,0 +1,1301 @@
+CASE: Test Circuit 
+Delt: 60.000000 us 
+Rack: 7 NoRealTime: 0 
+Distribution_mode: 0
+vsc_mode: 0
+CVer: 4.0 
+RTDSPC_VERSION:  4.0.0h
+
+Slider Desc="LGVt17" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt17" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt16" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt16" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt15" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt15" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt14" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt14" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt13" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt13" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt12" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt12" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt19" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt19" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt18" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt18" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt10" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt10" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt27" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt27" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt26" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt26" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt25" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt25" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt24" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt24" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt23" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt23" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt22" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt22" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt29" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt29" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt28" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt28" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt20" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt20" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt37" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt37" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt36" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt36" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt35" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt35" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt34" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt34" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt33" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt33" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt32" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt32" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt39" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt39" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt38" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt38" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt30" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt30" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt57" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt57" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt56" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt56" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt55" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt55" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt54" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt54" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt53" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt53" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt52" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt52" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt59" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt59" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt58" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt58" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt50" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt50" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt67" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt67" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt66" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt66" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt65" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt65" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt64" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt64" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt63" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt63" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt62" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt62" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt69" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt69" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt68" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt68" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt60" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt60" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt47" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt47" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt46" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt46" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt45" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt45" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt44" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt44" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt43" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt43" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt42" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt42" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt49" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt49" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt48" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt48" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt40" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt40" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt07" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt07" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt06" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt06" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt05" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt05" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt04" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt04" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt03" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt03" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt02" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt02" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt09" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt09" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt08" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt08" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt00" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=0 Units="" Type=INT
+String Desc="LGVt00" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt01" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=0 Units="" Type=INT
+String Desc="LGVt01" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt11" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt11" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt21" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt21" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt31" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt31" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt41" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt41" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt51" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt51" Group="DraftVariables|Annotation" InitValue=""
+Slider Desc="LGVt61" Group="DraftVariables"   Max=100.0 Min=0.0 InitValue=1 Units="" Type=INT
+String Desc="LGVt61" Group="DraftVariables|Annotation" InitValue=""
+String Desc="LGVs67" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs66" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs65" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs64" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs63" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs62" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs69" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs68" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs60" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs61" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs57" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs56" Group="DraftVariables" InitValue="I692675SECph"
+String Desc="LGVs55" Group="DraftVariables" InitValue="I692675SECm"
+String Desc="LGVs54" Group="DraftVariables" InitValue="I692675SEBph"
+String Desc="LGVs53" Group="DraftVariables" InitValue="I692675SEBm"
+String Desc="LGVs52" Group="DraftVariables" InitValue="I692675SEAph"
+String Desc="LGVs59" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs58" Group="DraftVariables" InitValue="LGYX"
+String Desc="LGVs50" Group="DraftVariables" InitValue="V692Cph"
+String Desc="LGVs51" Group="DraftVariables" InitValue="I692675SEAm"
+String Desc="LGVs47" Group="DraftVariables" InitValue="V692Bm"
+String Desc="LGVs46" Group="DraftVariables" InitValue="V692Aph"
+String Desc="LGVs45" Group="DraftVariables" InitValue="V692Am"
+String Desc="LGVs44" Group="DraftVariables" InitValue="I645646SECph"
+String Desc="LGVs43" Group="DraftVariables" InitValue="I645646SECm"
+String Desc="LGVs42" Group="DraftVariables" InitValue="I645646SEBph"
+String Desc="LGVs49" Group="DraftVariables" InitValue="V692Cm"
+String Desc="LGVs48" Group="DraftVariables" InitValue="V692Bph"
+String Desc="LGVs40" Group="DraftVariables" InitValue="I632645RECph"
+String Desc="LGVs41" Group="DraftVariables" InitValue="I645646SEBm"
+String Desc="LGVs37" Group="DraftVariables" InitValue="I632645REBm"
+String Desc="LGVs36" Group="DraftVariables" InitValue="V645Cph"
+String Desc="LGVs35" Group="DraftVariables" InitValue="V645Cm"
+String Desc="LGVs34" Group="DraftVariables" InitValue="V645Bph"
+String Desc="LGVs33" Group="DraftVariables" InitValue="V645Bm"
+String Desc="LGVs32" Group="DraftVariables" InitValue="I633634SECph"
+String Desc="LGVs39" Group="DraftVariables" InitValue="I632645RECm"
+String Desc="LGVs38" Group="DraftVariables" InitValue="I632645REBph"
+String Desc="LGVs30" Group="DraftVariables" InitValue="I633634SEBph"
+String Desc="LGVs31" Group="DraftVariables" InitValue="I633634SECm"
+String Desc="LGVs27" Group="DraftVariables" InitValue="I633634SEAm"
+String Desc="LGVs26" Group="DraftVariables" InitValue="I632633RECph"
+String Desc="LGVs25" Group="DraftVariables" InitValue="I632633RECm"
+String Desc="LGVs24" Group="DraftVariables" InitValue="I632633REBph"
+String Desc="LGVs23" Group="DraftVariables" InitValue="I632633REBm"
+String Desc="LGVs22" Group="DraftVariables" InitValue="I632633REAph"
+String Desc="LGVs29" Group="DraftVariables" InitValue="I633634SEBm"
+String Desc="LGVs28" Group="DraftVariables" InitValue="I633634SEAph"
+String Desc="LGVs20" Group="DraftVariables" InitValue="V633Cph"
+String Desc="LGVs21" Group="DraftVariables" InitValue="I632633REAm"
+String Desc="LGVs11" Group="DraftVariables" InitValue="IRG60632SEBm"
+String Desc="LGVs07" Group="DraftVariables" InitValue="VRG60Cm"
+String Desc="LGVs06" Group="DraftVariables" InitValue="VRG60Bph"
+String Desc="LGVs05" Group="DraftVariables" InitValue="VRG60Bm"
+String Desc="LGVs04" Group="DraftVariables" InitValue="VRG60Aph"
+String Desc="LGVs03" Group="DraftVariables" InitValue="VRG60Am"
+String Desc="LGVs02" Group="DraftVariables" InitValue="LGYdt"
+String Desc="LGVs09" Group="DraftVariables" InitValue="IRG60632SEAm"
+String Desc="LGVs08" Group="DraftVariables" InitValue="VRG60Cph"
+String Desc="LGVs00" Group="DraftVariables" InitValue="LGUsen"
+String Desc="LGVs01" Group="DraftVariables" InitValue="LGYNdt"
+String Desc="LGVs17" Group="DraftVariables" InitValue="V633Bm"
+String Desc="LGVs16" Group="DraftVariables" InitValue="V633Aph"
+String Desc="LGVs15" Group="DraftVariables" InitValue="V633Am"
+String Desc="LGVs14" Group="DraftVariables" InitValue="IRG60632SECph"
+String Desc="LGVs13" Group="DraftVariables" InitValue="IRG60632SECm"
+String Desc="LGVs12" Group="DraftVariables" InitValue="IRG60632SEBph"
+String Desc="LGVs19" Group="DraftVariables" InitValue="V633Cm"
+String Desc="LGVs18" Group="DraftVariables" InitValue="V633Bph"
+String Desc="LGVs10" Group="DraftVariables" InitValue="IRG60632SEAph"
+Slider Desc="LGVN" Group="DraftVariables"   Max=65 Min=0.0 InitValue=57 Units="" Type=INT
+String Desc="LGVN" Group="DraftVariables|Annotation" InitValue=""
+String Desc="CircuitTitle Annotation" Group="Annotation" InitValue="null"
+Output Desc="BRK1" Group="Subsystem #1|CTLs|Inputs" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=2004E8
+Output Desc="LGUFsen" Group="Subsystem #1|CTLs|Inputs" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=2004EC
+Output Desc="LGUFT" Group="Subsystem #1|CTLs|Inputs" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004F0
+Output Desc="Profile_en" Group="Subsystem #1|CTLs|Inputs" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=2004F4
+Output Desc="Vset" Group="Subsystem #1|CTLs|Inputs" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004F8
+Output Desc="Load_646_b_p_o" Group="Subsystem #1|Loads|Load_646_b" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004FC
+Output Desc="Load_646_b_q_o" Group="Subsystem #1|Loads|Load_646_b" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200500
+Output Desc="load_692_c_p_o" Group="Subsystem #1|Loads|load_692_c" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200504
+Output Desc="load_692_c_q_o" Group="Subsystem #1|Loads|load_692_c" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200508
+Output Desc="BRK675" Group="Subsystem #1|CTLs|Inputs" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=20050C
+Output Desc="load_652_a_p_o" Group="Subsystem #1|Loads|load_652_a" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200510
+Output Desc="load_652_a_q_o" Group="Subsystem #1|Loads|load_652_a" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200514
+Output Desc="BRK611" Group="Subsystem #1|CTLs|Inputs" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200518
+Output Desc="load_611_c_p_o" Group="Subsystem #1|Loads|load_611_c" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20051C
+Output Desc="load_611_c_q_o" Group="Subsystem #1|Loads|load_611_c" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200520
+Output Desc="isrcA2" Group="Subsystem #1|Transformers|Substation" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200524
+Output Desc="isrcB2" Group="Subsystem #1|Transformers|Substation" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200528
+Output Desc="isrcC2" Group="Subsystem #1|Transformers|Substation" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20052C
+Output Desc="I633634SEA" Group="Subsystem #1|Transformers|TRF1" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001C4
+Output Desc="I633634SEB" Group="Subsystem #1|Transformers|TRF1" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001C8
+Output Desc="I633634SEC" Group="Subsystem #1|Transformers|TRF1" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001CC
+Output Desc="I633634REA" Group="Subsystem #1|Transformers|TRF1" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001D0
+Output Desc="I633634REB" Group="Subsystem #1|Transformers|TRF1" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001D4
+Output Desc="I633634REC" Group="Subsystem #1|Transformers|TRF1" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001D8
+Output Desc="P" Group="Subsystem #1|Sources|src" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200530
+Output Desc="Q" Group="Subsystem #1|Sources|src" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200534
+Output Desc="IAsrc" Group="Subsystem #1|Sources|src" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001DC
+Output Desc="IBsrc" Group="Subsystem #1|Sources|src" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001E0
+Output Desc="ICsrc" Group="Subsystem #1|Sources|src" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001E4
+Output Desc="IRG60632SEA" Group="Subsystem #1|PieSect|650to632" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001E8
+Output Desc="IRG60632SEB" Group="Subsystem #1|PieSect|650to632" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001EC
+Output Desc="IRG60632SEC" Group="Subsystem #1|PieSect|650to632" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001F0
+Output Desc="IRG60632REA" Group="Subsystem #1|PieSect|650to632" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001F4
+Output Desc="IRG60632REB" Group="Subsystem #1|PieSect|650to632" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001F8
+Output Desc="IRG60632REC" Group="Subsystem #1|PieSect|650to632" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2001FC
+Output Desc="I632645SEB" Group="Subsystem #1|PieSect|632to645" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200200
+Output Desc="I632645SEC" Group="Subsystem #1|PieSect|632to645" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200204
+Output Desc="I632645REB" Group="Subsystem #1|PieSect|632to645" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200208
+Output Desc="I632645REC" Group="Subsystem #1|PieSect|632to645" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20020C
+Output Desc="I632671aSEA" Group="Subsystem #1|PieSect|632to671a" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200210
+Output Desc="I632671aSEB" Group="Subsystem #1|PieSect|632to671a" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200214
+Output Desc="I632671aSEC" Group="Subsystem #1|PieSect|632to671a" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200218
+Output Desc="I632671aREA" Group="Subsystem #1|PieSect|632to671a" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200538
+Output Desc="I632671aREB" Group="Subsystem #1|PieSect|632to671a" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20053C
+Output Desc="I632671aREC" Group="Subsystem #1|PieSect|632to671a" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200540
+Output Desc="I632633SEA" Group="Subsystem #1|PieSect|632to633" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20021C
+Output Desc="I632633SEB" Group="Subsystem #1|PieSect|632to633" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200220
+Output Desc="I632633SEC" Group="Subsystem #1|PieSect|632to633" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200224
+Output Desc="I632633REA" Group="Subsystem #1|PieSect|632to633" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200228
+Output Desc="I632633REB" Group="Subsystem #1|PieSect|632to633" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20022C
+Output Desc="I632633REC" Group="Subsystem #1|PieSect|632to633" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200230
+Output Desc="B671aB671A" Group="Subsystem #1|PieSect|632to671b" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200544
+Output Desc="B671aB671B" Group="Subsystem #1|PieSect|632to671b" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200548
+Output Desc="B671aB671C" Group="Subsystem #1|PieSect|632to671b" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20054C
+Output Desc="iB671inA" Group="Subsystem #1|PieSect|632to671b" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200550
+Output Desc="iB671inB" Group="Subsystem #1|PieSect|632to671b" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200554
+Output Desc="iB671inC" Group="Subsystem #1|PieSect|632to671b" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200558
+Output Desc="I645646SEB" Group="Subsystem #1|PieSect|645to646" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200234
+Output Desc="I645646SEC" Group="Subsystem #1|PieSect|645to646" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200238
+Output Desc="I645646REB" Group="Subsystem #1|PieSect|645to646" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20023C
+Output Desc="I645646REC" Group="Subsystem #1|PieSect|645to646" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200240
+Output Desc="I671680SEA" Group="Subsystem #1|PieSect|671to680" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200244
+Output Desc="I671680SEB" Group="Subsystem #1|PieSect|671to680" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200248
+Output Desc="I671680SEC" Group="Subsystem #1|PieSect|671to680" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20024C
+Output Desc="I671680REA" Group="Subsystem #1|PieSect|671to680" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200250
+Output Desc="I671680REB" Group="Subsystem #1|PieSect|671to680" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200254
+Output Desc="I671680REC" Group="Subsystem #1|PieSect|671to680" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200258
+Output Desc="I692675SEA" Group="Subsystem #1|PieSect|692to675" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20025C
+Output Desc="I692675SEB" Group="Subsystem #1|PieSect|692to675" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200260
+Output Desc="I692675SEC" Group="Subsystem #1|PieSect|692to675" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200264
+Output Desc="I692675REA" Group="Subsystem #1|PieSect|692to675" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200268
+Output Desc="I692675REB" Group="Subsystem #1|PieSect|692to675" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20026C
+Output Desc="I692675REC" Group="Subsystem #1|PieSect|692to675" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200270
+Output Desc="I671684SEA" Group="Subsystem #1|PieSect|671to684" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200274
+Output Desc="I671684SEC" Group="Subsystem #1|PieSect|671to684" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200278
+Output Desc="I671684REA" Group="Subsystem #1|PieSect|671to684" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20027C
+Output Desc="I671684REC" Group="Subsystem #1|PieSect|671to684" Units="kA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200280
+Output Desc="testing" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20055C
+Output Desc="I684611and652SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200284
+Output Desc="V684ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200560
+Output Desc="load_675_c_p_o" Group="Subsystem #1|Loads|load_675_c" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200564
+Output Desc="load_675_c_q_o" Group="Subsystem #1|Loads|load_675_c" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200568
+Output Desc="load_675_a_p_o" Group="Subsystem #1|Loads|load_675_a" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20056C
+Output Desc="load_675_a_q_o" Group="Subsystem #1|Loads|load_675_a" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200570
+Output Desc="load_675_b_p_o" Group="Subsystem #1|Loads|load_675_b" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200574
+Output Desc="load_675_b_q_o" Group="Subsystem #1|Loads|load_675_b" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200578
+Output Desc="V675ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20057C
+Output Desc="I671684REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200580
+Output Desc="V680ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200584
+Output Desc="I692675REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200588
+Output Desc="I671680REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20058C
+Output Desc="I671684SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200590
+Output Desc="I692675SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200594
+Output Desc="V692ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200598
+Output Desc="I671692REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20059C
+Output Desc="I671680SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005A0
+Output Desc="V671ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005A4
+Output Desc="load_671_c_p_o" Group="Subsystem #1|Loads|load_671_c" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005A8
+Output Desc="load_671_c_q_o" Group="Subsystem #1|Loads|load_671_c" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005AC
+Output Desc="load_671_b_p_o" Group="Subsystem #1|Loads|load_671_b" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005B0
+Output Desc="load_671_b_q_o" Group="Subsystem #1|Loads|load_671_b" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005B4
+Output Desc="load_671_a_p_o" Group="Subsystem #1|Loads|load_671_a" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005B8
+Output Desc="load_671_a_q_o" Group="Subsystem #1|Loads|load_671_a" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005BC
+Output Desc="V646ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005C0
+Output Desc="load_dis_b_a_p_o" Group="Subsystem #1|Loads|load_dis_b_a" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005C4
+Output Desc="load_dis_b_a_q_o" Group="Subsystem #1|Loads|load_dis_b_a" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005C8
+Output Desc="load_dis_b_b_p_o" Group="Subsystem #1|Loads|load_dis_b_b" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005CC
+Output Desc="load_dis_b_b_q_o" Group="Subsystem #1|Loads|load_dis_b_b" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005D0
+Output Desc="load_dis_b_c_p_o" Group="Subsystem #1|Loads|load_dis_b_c" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005D4
+Output Desc="load_dis_b_c_q_o" Group="Subsystem #1|Loads|load_dis_b_c" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005D8
+Output Desc="I645646REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005DC
+Output Desc="load_634_c_p_o" Group="Subsystem #1|Loads|load_634_c" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005E0
+Output Desc="load_634_c_q_o" Group="Subsystem #1|Loads|load_634_c" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005E4
+Output Desc="load_634_b_p_o" Group="Subsystem #1|Loads|load_634_b" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005E8
+Output Desc="load_634_b_q_o" Group="Subsystem #1|Loads|load_634_b" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005EC
+Output Desc="load_634_a_p_o" Group="Subsystem #1|Loads|load_634_a" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005F0
+Output Desc="load_634_a_q_o" Group="Subsystem #1|Loads|load_634_a" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005F4
+Output Desc="I633634REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005F8
+Output Desc="V634ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2005FC
+Output Desc="I645646SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200600
+Output Desc="I633634SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200604
+Output Desc="load_645_b_p_o" Group="Subsystem #1|Loads|load_645_b" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200608
+Output Desc="load_645_b_q_o" Group="Subsystem #1|Loads|load_645_b" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20060C
+Output Desc="V645ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200610
+Output Desc="V633ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200614
+Output Desc="load_dis_a_a_p_o" Group="Subsystem #1|Loads|load_dis_a_a" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200618
+Output Desc="load_dis_a_a_q_o" Group="Subsystem #1|Loads|load_dis_a_a" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20061C
+Output Desc="load_dis_a_b_p_o" Group="Subsystem #1|Loads|load_dis_a_b" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200620
+Output Desc="load_dis_a_b_q_o" Group="Subsystem #1|Loads|load_dis_a_b" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200624
+Output Desc="load_dis_a_c_p_o" Group="Subsystem #1|Loads|load_dis_a_c" Units="MW" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200628
+Output Desc="load_dis_a_c_q_o" Group="Subsystem #1|Loads|load_dis_a_c" Units="MVar" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20062C
+Output Desc="I632645REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200630
+Output Desc="I632633REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200634
+Output Desc="I632645SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200638
+Output Desc="I632633SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20063C
+Output Desc="I632671SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200640
+Output Desc="V632ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200644
+Output Desc="IRG60632REph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200648
+Output Desc="IRG60632SEph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20064C
+Output Desc="VRG60ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200650
+Output Desc="VmeasC" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200654
+Output Desc="Esc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200288
+Output Desc="Isc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20028C
+Output Desc="VmeasB" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200658
+Output Desc="Esb" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200290
+Output Desc="Isb" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200294
+Output Desc="VmeasA" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20065C
+Output Desc="Es" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200298
+Output Desc="Is" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20029C
+Output Desc="V650ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200660
+Output Desc="Nph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200664
+Output Desc="Bus650Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200668
+Output Desc="Bus650Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20066C
+Output Desc="Bus650Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200670
+Output Desc="Bus634Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200674
+Output Desc="Bus634Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200678
+Output Desc="Bus671Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20067C
+Output Desc="Bus680Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200680
+Output Desc="Bus680Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200684
+Output Desc="Bus692Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200688
+Output Desc="Bus675Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20068C
+Output Desc="Bus684Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200690
+Output Desc="Bus684Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200694
+Output Desc="Bus675Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200698
+Output Desc="Bus675Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20069C
+Output Desc="Bus692Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006A0
+Output Desc="Bus692Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006A4
+Output Desc="Bus611Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006A8
+Output Desc="Bus652Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006AC
+Output Desc="Bus633Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006B0
+Output Desc="Bus633Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006B4
+Output Desc="Bus633Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006B8
+Output Desc="Bus634Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006BC
+Output Desc="Bus671Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006C0
+Output Desc="Bus671Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006C4
+Output Desc="Bus680Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006C8
+Output Desc="Bus646Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006CC
+Output Desc="Bus646Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006D0
+Output Desc="Bus645Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006D4
+Output Desc="Bus645Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006D8
+Output Desc="Bus632Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006DC
+Output Desc="Bus632Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006E0
+Output Desc="Bus632Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006E4
+Output Desc="RG60Crms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006E8
+Output Desc="RG60Brms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006EC
+Output Desc="RG60Arms" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006F0
+Output Desc="TimeFromSimulator" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006F4
+Output Desc="Ztime" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2006F8
+Output Desc="LGYN" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=2006FC
+Output Desc="I684611SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200700
+Output Desc="I684611SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200704
+Output Desc="I684652SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200708
+Output Desc="I684652SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20070C
+Output Desc="V684Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200710
+Output Desc="V684Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200714
+Output Desc="V684Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200718
+Output Desc="V684Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20071C
+Output Desc="V675Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200720
+Output Desc="V675Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200724
+Output Desc="V675Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200728
+Output Desc="V675Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20072C
+Output Desc="V675Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200730
+Output Desc="V675Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200734
+Output Desc="I671684REAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200738
+Output Desc="I671684REAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20073C
+Output Desc="I671684RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200740
+Output Desc="I671684RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200744
+Output Desc="V680Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200748
+Output Desc="V680Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20074C
+Output Desc="V680Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200750
+Output Desc="V680Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200754
+Output Desc="V680Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200758
+Output Desc="V680Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20075C
+Output Desc="I692675REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200760
+Output Desc="I692675REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200764
+Output Desc="I692675RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200768
+Output Desc="I692675RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20076C
+Output Desc="I692675REAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200770
+Output Desc="I692675REAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200774
+Output Desc="I671680RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200778
+Output Desc="I671680RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20077C
+Output Desc="I671680REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200780
+Output Desc="I671680REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200784
+Output Desc="I671680REAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200788
+Output Desc="I671680REAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20078C
+Output Desc="I671684SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200790
+Output Desc="I671684SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200794
+Output Desc="I671684SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200798
+Output Desc="I671684SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20079C
+Output Desc="I692675SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002A0
+Output Desc="I692675SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002A4
+Output Desc="I692675SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002A8
+Output Desc="I692675SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002AC
+Output Desc="I692675SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002B0
+Output Desc="I692675SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002B4
+Output Desc="V692Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002B8
+Output Desc="V692Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002BC
+Output Desc="V692Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002C0
+Output Desc="V692Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002C4
+Output Desc="V692Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002C8
+Output Desc="V692Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002CC
+Output Desc="I671692REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007A0
+Output Desc="I671692REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007A4
+Output Desc="I671692RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007A8
+Output Desc="I671692RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007AC
+Output Desc="I671692REAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007B0
+Output Desc="I671692REAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007B4
+Output Desc="I671680SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007B8
+Output Desc="I671680SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007BC
+Output Desc="I671680SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007C0
+Output Desc="I671680SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007C4
+Output Desc="I671680SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007C8
+Output Desc="I671680SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007CC
+Output Desc="V671Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007D0
+Output Desc="V671Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007D4
+Output Desc="V671Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007D8
+Output Desc="V671Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007DC
+Output Desc="V671Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007E0
+Output Desc="V671Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007E4
+Output Desc="V646Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007E8
+Output Desc="V646Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007EC
+Output Desc="V646Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007F0
+Output Desc="V646Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007F4
+Output Desc="I645646REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007F8
+Output Desc="I645646REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2007FC
+Output Desc="I645646RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200800
+Output Desc="I645646RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200804
+Output Desc="I633634REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200808
+Output Desc="I633634REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20080C
+Output Desc="I633634RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200810
+Output Desc="I633634RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200814
+Output Desc="I633634REAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200818
+Output Desc="I633634REAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20081C
+Output Desc="V634Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200820
+Output Desc="V634Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200824
+Output Desc="V634Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200828
+Output Desc="V634Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20082C
+Output Desc="V634Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200830
+Output Desc="V634Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200834
+Output Desc="I645646SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002D0
+Output Desc="I645646SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002D4
+Output Desc="I645646SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002D8
+Output Desc="I645646SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002DC
+Output Desc="I633634SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002E0
+Output Desc="I633634SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002E4
+Output Desc="I633634SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002E8
+Output Desc="I633634SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002EC
+Output Desc="I633634SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002F0
+Output Desc="I633634SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002F4
+Output Desc="V645Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002F8
+Output Desc="V645Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2002FC
+Output Desc="V645Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200300
+Output Desc="V645Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200304
+Output Desc="V633Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200308
+Output Desc="V633Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20030C
+Output Desc="V633Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200310
+Output Desc="V633Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200314
+Output Desc="V633Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200318
+Output Desc="V633Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20031C
+Output Desc="I632645REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200320
+Output Desc="I632645REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200324
+Output Desc="I632645RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200328
+Output Desc="I632645RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20032C
+Output Desc="I632633REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200330
+Output Desc="I632633REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200334
+Output Desc="I632633RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200338
+Output Desc="I632633RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20033C
+Output Desc="I632633REAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200340
+Output Desc="I632633REAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200344
+Output Desc="I632645SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200838
+Output Desc="I632645SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20083C
+Output Desc="I632645SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200840
+Output Desc="I632645SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200844
+Output Desc="I632633SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200848
+Output Desc="I632633SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20084C
+Output Desc="I632633SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200850
+Output Desc="I632633SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200854
+Output Desc="I632633SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200858
+Output Desc="I632633SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20085C
+Output Desc="I632671SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200860
+Output Desc="I632671SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200864
+Output Desc="I632671SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200868
+Output Desc="I632671SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20086C
+Output Desc="I632671SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200870
+Output Desc="I632671SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200874
+Output Desc="V632Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200878
+Output Desc="V632Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20087C
+Output Desc="V632Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200880
+Output Desc="V632Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200884
+Output Desc="V632Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200888
+Output Desc="V632Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20088C
+Output Desc="IRG60632REBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200890
+Output Desc="IRG60632REBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200894
+Output Desc="IRG60632RECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200898
+Output Desc="IRG60632RECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20089C
+Output Desc="IRG60632REAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008A0
+Output Desc="IRG60632REAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008A4
+Output Desc="IRG60632SEBm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200348
+Output Desc="IRG60632SEBph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20034C
+Output Desc="IRG60632SECm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200350
+Output Desc="IRG60632SECph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200354
+Output Desc="IRG60632SEAm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200358
+Output Desc="IRG60632SEAph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20035C
+Output Desc="VRG60Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200360
+Output Desc="VRG60Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200364
+Output Desc="VRG60Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200368
+Output Desc="VRG60Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20036C
+Output Desc="VRG60Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200370
+Output Desc="VRG60Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200374
+Output Desc="monc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008A8
+Output Desc="monb" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008AC
+Output Desc="mon" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008B0
+Output Desc="Vhigh" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008B4
+Output Desc="Vlow" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008B8
+Output Desc="V650Bm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008BC
+Output Desc="V650Bph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008C0
+Output Desc="V650Cm" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008C4
+Output Desc="V650Cph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008C8
+Output Desc="V650Am" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008CC
+Output Desc="V650Aph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008D0
+Output Desc="N2m" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008D4
+Output Desc="N2ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008D8
+Output Desc="N3m" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008DC
+Output Desc="N3ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008E0
+Output Desc="N1m" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008E4
+Output Desc="N1ph" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008E8
+Output Desc="Q650C" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008EC
+Output Desc="P650C" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008F0
+Output Desc="Q650B" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008F4
+Output Desc="P650B" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008F8
+Output Desc="Q650A" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2008FC
+Output Desc="P650A" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200900
+Output Desc="LGYtime" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200904
+Output Desc="Psrc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200908
+Output Desc="Qsrc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20090C
+Output Desc="Ssrc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200910
+Output Desc="Angsrc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200914
+Output Desc="S650A" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200918
+Output Desc="Ang650A" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20091C
+Output Desc="S650B" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200920
+Output Desc="Ang650B" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200924
+Output Desc="S650C" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200928
+Output Desc="Ang650C" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20092C
+Output Desc="LGUFse" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200930
+Output Desc="clearc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200934
+Output Desc="clearb" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200938
+Output Desc="clear" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20093C
+Output Desc="pfsrc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200940
+Output Desc="pf650A" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200944
+Output Desc="pf650B" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200948
+Output Desc="pf650C" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20094C
+Output Desc="LGUsen" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200950
+Output Desc="rstc" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200954
+Output Desc="rstb" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200958
+Output Desc="rst" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=20095C
+Output Desc="Tapini" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200960
+Output Desc="TAP0a" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200964
+Output Desc="TAPa1" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200378
+Output Desc="Tapinib" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200968
+Output Desc="TAP0b" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=20096C
+Output Desc="TAPb1" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20037C
+Output Desc="Tapinic" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200970
+Output Desc="TAP0c" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200974
+Output Desc="TAPc1" Group="Subsystem #1|CTLs|Vars" Units=" " Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200380
+Output Desc="LGYNdt" Group="Subsystem #1|CTLs|Vars" Units=" " Type=INT Min=0 Max=1 Rack=7 Adr=200978
+Output Desc="Time" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20097C
+Output Desc="load_634_a_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200384
+Output Desc="load_634_a_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200388
+Output Desc="load_634_b_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20038C
+Output Desc="load_634_b_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200390
+Output Desc="load_634_c_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200394
+Output Desc="load_634_c_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200398
+Output Desc="load_645_b_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20039C
+Output Desc="load_645_b_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003A0
+Output Desc="load_646_b_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003A4
+Output Desc="load_646_b_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003A8
+Output Desc="load_652_a_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003AC
+Output Desc="load_652_a_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200980
+Output Desc="load_671_a_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003B0
+Output Desc="load_671_a_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003B4
+Output Desc="load_671_b_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003B8
+Output Desc="load_671_b_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003BC
+Output Desc="load_671_c_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003C0
+Output Desc="load_671_c_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003C4
+Output Desc="load_675_a_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003C8
+Output Desc="load_675_a_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003CC
+Output Desc="load_675_b_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003D0
+Output Desc="load_675_b_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003D4
+Output Desc="load_675_c_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003D8
+Output Desc="load_675_c_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003DC
+Output Desc="load_692_c_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003E0
+Output Desc="load_692_c_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003E4
+Output Desc="load_611_c_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003E8
+Output Desc="load_611_c_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003EC
+Output Desc="load_dis_a_a_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003F0
+Output Desc="load_dis_a_a_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003F4
+Output Desc="load_dis_a_b_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003F8
+Output Desc="load_dis_a_b_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2003FC
+Output Desc="load_dis_a_c_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200400
+Output Desc="load_dis_a_c_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200404
+Output Desc="load_dis_b_a_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200408
+Output Desc="load_dis_b_a_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20040C
+Output Desc="load_dis_b_b_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200410
+Output Desc="load_dis_b_b_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200414
+Output Desc="load_dis_b_c_p" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200418
+Output Desc="load_dis_b_c_q" Group="Subsystem #1|GTNETSKT|GTNETSKT1" Units="units" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20041C
+Output Desc="IdropA" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200984
+Output Desc="IdropB" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200988
+Output Desc="IdropC" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20098C
+Output Desc="Ireg1A" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200990
+Output Desc="Ireg1B" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200994
+Output Desc="Ireg1C" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200998
+Output Desc="B675CIA" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20099C
+Output Desc="B675CIB" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009A0
+Output Desc="B675CIC" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009A4
+Output Desc="I684652SEA" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200420
+Output Desc="I684611SEC" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200424
+Output Desc="I671692A" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200428
+Output Desc="I671692B" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009A8
+Output Desc="I671692C" Group="Subsystem #1|Branch Currents" Units="KA" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009AC
+Output Desc="S1) EmeasA" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20042C
+Output Desc="S1) V671A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200430
+Output Desc="S1) V671B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200434
+Output Desc="S1) V671C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200438
+Output Desc="S1) V671aC" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20043C
+Output Desc="S1) V634C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200440
+Output Desc="S1) V692C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200444
+Output Desc="S1) V675C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200448
+Output Desc="S1) V671aB" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20044C
+Output Desc="S1) V634B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200450
+Output Desc="S1) V692B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200454
+Output Desc="S1) V675B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200458
+Output Desc="S1) V645B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20045C
+Output Desc="S1) V671aA" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200460
+Output Desc="S1) V634A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200464
+Output Desc="S1) V692A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200468
+Output Desc="S1) V675A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20046C
+Output Desc="S1) 18" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009B0
+Output Desc="S1) V684C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200470
+Output Desc="S1) 20" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009B4
+Output Desc="S1) V684A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200474
+Output Desc="S1) 22" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009B8
+Output Desc="S1) 23" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009BC
+Output Desc="S1) 24" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009C0
+Output Desc="S1) N652" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200478
+Output Desc="S1) V650A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20047C
+Output Desc="S1) V646B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200480
+Output Desc="S1) V646C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200484
+Output Desc="S1) N611" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200488
+Output Desc="S1) V650B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20048C
+Output Desc="S1) V650C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200490
+Output Desc="S1) N1" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200494
+Output Desc="S1) N2" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=200498
+Output Desc="S1) N3" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=20049C
+Output Desc="S1) 35" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2009C4
+Output Desc="S1) VRG60A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004A0
+Output Desc="S1) VRG60B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004A4
+Output Desc="S1) VRG60C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004A8
+Output Desc="S1) 39" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004AC
+Output Desc="S1) 40" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004B0
+Output Desc="S1) 41" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004B4
+Output Desc="S1) V632A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004B8
+Output Desc="S1) V632B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004BC
+Output Desc="S1) V632C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004C0
+Output Desc="S1) EmeasB" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004C4
+Output Desc="S1) EmeasC" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004C8
+Output Desc="S1) V645C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004CC
+Output Desc="S1) V633A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004D0
+Output Desc="S1) V633B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004D4
+Output Desc="S1) V633C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004D8
+Output Desc="S1) V680A" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004DC
+Output Desc="S1) V680B" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004E0
+Output Desc="S1) V680C" Group="Subsystem #1|Node Voltages" Units="kV" Type=IEEE Min=0.0000 Max=1.0000 Rack=7 Adr=2004E4
+Switch Desc="Breaker" Group="Subsystem #1|CTLs|Inputs" Type=INT P0=0 P1=1 InitValue=1 OnText="ON" OffText="OFF" Rack=7 Adr=782010
+Switch Desc="LGUFsen" Group="Subsystem #1|CTLs|Inputs" Type=INT P0=1 P1=0 InitValue=1 OnText="enab" OffText="reset" Rack=7 Adr=784010
+Slider Desc="LGUFT" Group="Subsystem #1|CTLs|Inputs" Type=IEEE Units="s" InitValue=1.000000 Min=0.000000 Max=100.000000 Rack=7 Adr=784014
+Switch Desc="LGUsen" Group="Subsystem #1|CTLs|Inputs" Type=INT P0=0 P1=1 InitValue=0 OnText="ON" OffText="OFF" Rack=7 Adr=784018
+Pushbutton Desc="LGUsp" Group="Subsystem #1|CTLs|Inputs" Type=INT P0=0 P1=1 Rack=7 Adr=78401C
+Switch Desc="Profile_en" Group="Subsystem #1|CTLs|Inputs" Type=INT P0=0 P1=1 InitValue=0 OnText="ON" OffText="OFF" Rack=7 Adr=786010
+Slider Desc="Vsetreg1" Group="Subsystem #1|CTLs|Inputs" Type=IEEE Units="volts" InitValue=122.000000 Min=-100.000000 Max=200.000000 Rack=7 Adr=786014
+Switch Desc="BRK675" Group="Subsystem #1|CTLs|Inputs" Type=INT P0=0 P1=7 InitValue=0 OnText="ON" OffText="OFF" Rack=7 Adr=782014
+Switch Desc="BRK611" Group="Subsystem #1|CTLs|Inputs" Type=INT P0=0 P1=1 InitValue=0 OnText="ON" OffText="OFF" Rack=7 Adr=782018
+Pushbutton Desc="Ftrg" Group="Subsystem #1|Sources|src" Type=INT P0=0 P1=1 Rack=7 Adr=789010
+Slider Desc="ABCmag" Group="Subsystem #1|Sources|src" Type=IEEE Units="KV" InitValue=4.160000 Min=0.000000 Max=8.320000 Rack=7 Adr=789014
+Slider Desc="Phase" Group="Subsystem #1|Sources|src" Type=IEEE Units="Deg" InitValue=0.000000 Min=-360.000000 Max=360.000000 Rack=7 Adr=789018
+Slider Desc="Freq" Group="Subsystem #1|Sources|src" Type=IEEE Units="Hz" InitValue=60.000000 Min=0.000000 Max=70.000000 Rack=7 Adr=78901C
+Pushbutton Desc="Ftrg" Group="Subsystem #1|Sources|Vreg1C" Type=INT P0=0 P1=1 Rack=7 Adr=789020
+Pushbutton Desc="Ftrg" Group="Subsystem #1|Sources|Vreg1B" Type=INT P0=0 P1=1 Rack=7 Adr=789024
+Pushbutton Desc="Ftrg" Group="Subsystem #1|Sources|Vreg1A" Type=INT P0=0 P1=1 Rack=7 Adr=789028
+String Desc="Draft file" Group="Annotation" InitValue="Draft file: C:\RTDS_USER\fileman\13IEEE\IEEE13.dft"
+String Desc="Draft file modification date" Group="Time tags" InitValue="2019/06/16 16:51:50"
+String Desc="Compile date" Group="Time tags" InitValue="2019/07/01 18:22:00"
+
+
+COMPONENT_TIMING_INFORMATION:
+timing_record: subsystem=1 processor=0 processor_type=GPC
+timing_record: subsystem=1 processor=1 processor_type=GPC
+timing_record: subsystem=1 processor=2 processor_type=GPC
+timing_record: subsystem=1 processor=3 processor_type=GPC
+timing_record: subsystem=1 processor=4 processor_type=GPC
+timing_record: subsystem=1 processor=5 processor_type=GPC
+timing_record: subsystem=1 processor=6 processor_type=GPC
+timing_record: subsystem=1 processor=7 processor_type=GPC
+timing_record: subsystem=1 processor=8 processor_type=GPC
+timing_record: subsystem=1 processor=9 processor_type=GPC
+timing_record: subsystem=1 processor_type=3PC processor_count=0
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=0 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=0 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=0 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=0 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=0 processor_type=GPC clock_index=5 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=1::_1 component_type=netsolCB subsystem=1 processor=0 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=100.000000 description=NetworkSolution
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=1 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=2 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=1 processor_type=GPC clock_index=3 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=4 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=5 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=6 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=7 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=8 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=9 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=10 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=11 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=12 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=13 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=14 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=15 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=16 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=17 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=18 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=19 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=20 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=1 processor_type=GPC clock_index=21 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=22 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=23 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=24 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=25 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=26 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=27 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=28 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=1 processor_type=GPC clock_index=29 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=30 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=31 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=32 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=33 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=34 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=35 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=36 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=37 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=38 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=39 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=40 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=41 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=42 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=43 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=44 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=45 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=46 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=47 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=48 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=49 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=50 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=51 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=52 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=53 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=54 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=55 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=56 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=57 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=58 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=59 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=60 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=61 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=62 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=63 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=64 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=65 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=66 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=67 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=68 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=69 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=70 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=71 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=72 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=73 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=74 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=75 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=76 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=77 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=78 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=79 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=80 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=81 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=82 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=83 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=84 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=85 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=86 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=87 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=88 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=5 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=6 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=gtfpgav2 subsystem=1 processor=2 processor_type=GPC clock_index=7 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=FIXVAL subsystem=1 processor=2 processor_type=GPC clock_index=8 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=9 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=2 processor_type=GPC clock_index=10 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=2 processor_type=GPC clock_index=11 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=slider_f subsystem=1 processor=2 processor_type=GPC clock_index=12 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=2 processor_type=GPC clock_index=13 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=pushb_i subsystem=1 processor=2 processor_type=GPC clock_index=14 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=15 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=monoX01 subsystem=1 processor=2 processor_type=GPC clock_index=16 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=dtdel_cb subsystem=1 processor=2 processor_type=GPC clock_index=17 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=time_cb subsystem=1 processor=2 processor_type=GPC clock_index=18 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_A subsystem=1 processor=2 processor_type=GPC clock_index=19 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=time_cb subsystem=1 processor=2 processor_type=GPC clock_index=20 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=2 processor_type=GPC clock_index=21 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_A subsystem=1 processor=2 processor_type=GPC clock_index=22 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=2 processor_type=GPC clock_index=23 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=2 processor_type=GPC clock_index=24 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=2 processor_type=GPC clock_index=25 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=2 processor_type=GPC clock_index=26 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=UPDOWNC subsystem=1 processor=2 processor_type=GPC clock_index=27 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=monoX01 subsystem=1 processor=2 processor_type=GPC clock_index=28 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=bit2word_ subsystem=1 processor=2 processor_type=GPC clock_index=29 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_A subsystem=1 processor=2 processor_type=GPC clock_index=30 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sh_A subsystem=1 processor=2 processor_type=GPC clock_index=31 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=1 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=2 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=3 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=4 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=5 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=6 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=7 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=8 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=9 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=10 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=11 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=12 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=13 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=14 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=15 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=16 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=17 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=18 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=19 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=20 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=21 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=22 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=23 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=24 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=25 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=26 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=27 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=28 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=29 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=30 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=31 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=32 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=33 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=34 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=35 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=36 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=37 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=38 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=39 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=40 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=41 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=42 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=43 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=44 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=45 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=46 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=47 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=48 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=49 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=50 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=51 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=52 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=53 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=54 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=55 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=56 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=57 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=58 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=59 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=60 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=61 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=62 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=63 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=64 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=65 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=66 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=67 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=68 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=69 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=70 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=71 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=72 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=73 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=74 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=75 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=76 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=77 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=78 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=79 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=80 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=81 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=82 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=83 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=84 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=85 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=86 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=87 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=88 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=89 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=90 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=91 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=92 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=93 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=94 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=95 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=96 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=97 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=98 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=99 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=100 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=101 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=102 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=103 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=104 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=105 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=106 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=107 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=108 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=109 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=110 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=111 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=112 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=113 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=114 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=115 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=116 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=117 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=118 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=119 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=120 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=121 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=122 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=4 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=slider_f subsystem=1 processor=4 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=5 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=6 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=7 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=8 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=9 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=10 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=11 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=12 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=13 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=14 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=15 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=16 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=17 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=18 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=19 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=20 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=21 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=22 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=23 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=24 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=25 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=26 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=27 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=28 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=29 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=30 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=31 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=32 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=33 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=34 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=35 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=36 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=37 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=38 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=39 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=40 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=41 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=42 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=43 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=44 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=45 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=46 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=47 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=48 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=49 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=50 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=51 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=52 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=53 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=54 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=55 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=56 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=57 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=58 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=59 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=60 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=61 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=62 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=63 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=64 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=65 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=66 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=67 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=4 processor_type=GPC clock_index=68 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=4 processor_type=GPC clock_index=69 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=70 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=71 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=72 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=73 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=74 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=75 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=76 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=77 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=78 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=79 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=80 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=81 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=82 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=83 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=84 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=85 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=86 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=87 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=88 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=89 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=90 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=91 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=92 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=93 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=94 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=95 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=96 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=97 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=98 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=99 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=100 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=101 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=102 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=103 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=104 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=105 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=106 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=107 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=108 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=109 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=110 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=111 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=112 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=113 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=114 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=115 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=116 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=117 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=118 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=119 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=120 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=121 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=122 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=123 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=124 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=125 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=126 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=127 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=128 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=129 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=130 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=PQmeter1PH subsystem=1 processor=4 processor_type=GPC clock_index=131 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=PQmeter1PH subsystem=1 processor=4 processor_type=GPC clock_index=132 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=PQmeter1PH subsystem=1 processor=4 processor_type=GPC clock_index=133 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=time_cb subsystem=1 processor=4 processor_type=GPC clock_index=134 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=4 processor_type=GPC clock_index=135 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=4 processor_type=GPC clock_index=136 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=137 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=138 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=139 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=140 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=141 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=142 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=143 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=144 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=145 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=146 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=147 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=148 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=149 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=150 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=4 processor_type=GPC clock_index=151 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=4 processor_type=GPC clock_index=152 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=4 processor_type=GPC clock_index=153 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=154 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=155 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=156 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=157 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=158 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=159 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=160 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=161 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=162 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=163 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=164 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=165 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=166 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=167 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=168 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=169 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=170 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=171 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=172 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=173 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=174 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=175 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=176 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=177 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=178 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=179 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=180 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=181 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=182 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=4 processor_type=GPC clock_index=183 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=184 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=185 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=186 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=4 processor_type=GPC clock_index=187 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=188 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=189 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=190 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=4 processor_type=GPC clock_index=191 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=192 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=193 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=194 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=195 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=196 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=197 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=198 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=199 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=200 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=201 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=202 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=203 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=204 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=205 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=206 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=207 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=208 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=209 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=210 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=211 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=212 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=213 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=214 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=215 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=4 processor_type=GPC clock_index=216 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=217 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=4 processor_type=GPC clock_index=218 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=219 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=4 processor_type=GPC clock_index=220 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=221 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=222 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=223 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=224 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=225 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=226 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=227 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=228 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=229 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=230 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=231 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=232 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=233 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=234 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=235 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=236 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=237 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=238 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=239 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=240 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=241 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=242 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=243 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=244 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gtnetskt subsystem=1 processor=4 processor_type=GPC clock_index=245 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=load_692_c component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=1 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=632to671b component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=2 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=671to680 component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=3 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=692to675 component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=4 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=671to684 component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=5 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=load_675_c component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_675_a component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=7 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_675_b component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=8 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_671_c component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=9 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_671_b component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=10 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_671_a component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=11 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_b_a component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=12 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=TRF1 component_type=trf3p2wI subsystem=1 processor=6 processor_type=GPC clock_index=1 enabled=true use=PSYS lf=10.000000 description=Transformer
+timing_record: timing_name=650to632 component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=2 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=632to645 component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=3 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=632to671a component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=4 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=632to633 component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=5 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=load_dis_b_b component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_b_c component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=7 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_645_b component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=8 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_a_a component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=9 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_a_b component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=10 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_a_c component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=11 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=7 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=7 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=7 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=7 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=T1 component_type=voltReg1p subsystem=1 processor=7 processor_type=GPC clock_index=5 enabled=true use=PSYS lf=3.000000
+timing_record: timing_name=T2 component_type=voltReg1p subsystem=1 processor=7 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=3.000000
+timing_record: timing_name=T3 component_type=voltReg1p subsystem=1 processor=7 processor_type=GPC clock_index=7 enabled=true use=PSYS lf=3.000000
+timing_record: timing_name=Load_646_b component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=8 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_652_a component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=9 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_611_c component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=10 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=Substation component_type=trf3p2wI subsystem=1 processor=7 processor_type=GPC clock_index=11 enabled=true use=PSYS lf=10.000000 description=Transformer
+timing_record: timing_name=src component_type=src3P subsystem=1 processor=7 processor_type=GPC clock_index=12 enabled=true use=PSYS lf=10.000000 description=Source
+timing_record: timing_name=645to646 component_type=matpi4 subsystem=1 processor=7 processor_type=GPC clock_index=13 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=load_634_c component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=14 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_634_b component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=15 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_634_a component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=16 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=Vreg1C component_type=src1p subsystem=1 processor=7 processor_type=GPC clock_index=17 enabled=true use=PSYS lf=5.000000 description=Source
+timing_record: timing_name=Vreg1B component_type=src1p subsystem=1 processor=7 processor_type=GPC clock_index=18 enabled=true use=PSYS lf=5.000000 description=Source
+timing_record: timing_name=Vreg1A component_type=src1p subsystem=1 processor=7 processor_type=GPC clock_index=19 enabled=true use=PSYS lf=5.000000 description=Source
