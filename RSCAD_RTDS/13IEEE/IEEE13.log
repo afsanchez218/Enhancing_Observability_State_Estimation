@@ -1,0 +1,16 @@
+MESSAGES:
+
+Compiling C:\RTDS_USER\fileman\13IEEE\IEEE13.dft for RTDS rack 7...
+Nodes and Wires...
+
+    Compiling subsystem 'SS #1'
+    Electrical nodes found: 53
+
+
+RTDSPC version = 4.0.0h
+=======================
+
+Using configuration file: \\plasma.caps.fsu.edu\CAPS\software\RSCAD\HDWR\config_file_03.txt
+End of process. Peak memory usage = 34643968 bytes
+
+Compile V5 completed successfully.

@@ -1,0 +1,659 @@
+ Dynamic load:R and L in parallel:
+	Pinit=0.120000 MW(R=144.213333 ohms)
+	Qinit=0.090000 MVar (L=0.510050 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.170000 MW(R=101.797647 ohms)
+	Qinit=0.151000 MVar (L=0.304004 H)
+ Dynamic load:R and L in parallel:
+	Pinit=33.300000 MW(R=0.173230 ohms)
+	Qinit=33.300000 MVar (L=0.000460 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.170000 MW(R=33.932630 ohms)
+	Qinit=0.080000 MVar (L=0.191269 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.290000 MW(R=19.891542 ohms)
+	Qinit=0.212000 MVar (L=0.072177 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.485000 MW(R=11.893912 ohms)
+	Qinit=0.190000 MVar (L=0.080534 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.068000 MW(R=84.831576 ohms)
+	Qinit=0.060000 MVar (L=0.255026 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.385000 MW(R=44.949610 ohms)
+	Qinit=0.220000 MVar (L=0.208657 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.385000 MW(R=44.949610 ohms)
+	Qinit=0.220000 MVar (L=0.208657 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.385000 MW(R=44.949610 ohms)
+	Qinit=0.220000 MVar (L=0.208657 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.005667 MW(R=1017.990888 ohms)
+	Qinit=0.003333 MVar (L=4.590510 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.022000 MW(R=262.206689 ohms)
+	Qinit=0.012667 MVar (L=1.208017 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.039000 MW(R=147.911466 ohms)
+	Qinit=0.022667 MVar (L=0.675068 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.120000 MW(R=0.639870 ohms)
+	Qinit=0.090000 MVar (L=0.002263 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.120000 MW(R=0.639870 ohms)
+	Qinit=0.090000 MVar (L=0.002263 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.160000 MW(R=0.479903 ohms)
+	Qinit=0.110000 MVar (L=0.001852 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.170000 MW(R=33.932630 ohms)
+	Qinit=0.125000 MVar (L=0.122412 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.011333 MW(R=508.990953 ohms)
+	Qinit=0.006667 MVar (L=2.295221 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.044000 MW(R=131.103345 ohms)
+	Qinit=0.025333 MVar (L=0.604009 H)
+ Dynamic load:R and L in parallel:
+	Pinit=0.078000 MW(R=73.955733 ohms)
+	Qinit=0.045333 MVar (L=0.337534 H)
+
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+     VSC component ordering 
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+RISC CONTROLS COMPONENTS(proc 0) --> GPC Card #1 Processor A
+numberOfModels = 6
+   component type=RISC_CMODEL model=switch_i DMStart = 2EF2 DMSize=12
+   component type=RISC_CMODEL model=switch_i DMStart = 2EFE DMSize=12
+   component type=RISC_CMODEL model=ICONST DMStart = 2F0A DMSize=4
+   component type=RISC_CMODEL model=switch_i DMStart = 2F0E DMSize=12
+   component type=RISC_CMODEL model=ICONST DMStart = 2F1A DMSize=4
+
+Subsystem 1, Network Solution on processor 1 Statistics:
+Number of nodes in this subsystem: 53
+Number of passed G values: 29
+Number of switched G overlays: 0
+Number of columns dynamically decomposed: 37
+
+   component type=risc_net model=netsolCB name=1::_1 DMStart = 2F1E DMSize=2344
+
+
+RISC CONTROLS COMPONENTS(proc 1) --> GPC Card #1 Processor B
+numberOfModels = 88
+   component type=RISC_CMODEL model=BWFILTER DMStart = 2E32 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 2E7A DMSize=72
+   component type=RISC_CMODEL model=sum3_B DMStart = 2EC2 DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 2ED2 DMSize=130
+   component type=RISC_CMODEL model=PLLv2 DMStart = 2F54 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 2FD6 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 301E DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3066 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 30AE DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 30F6 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 313E DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3186 DMSize=130
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3208 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 328A DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 32D2 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 331A DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3362 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 33AA DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 33F2 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 343A DMSize=130
+   component type=RISC_CMODEL model=sum3_B DMStart = 34BC DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 34CC DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 354E DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3596 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 35DE DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3660 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 36A8 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 36F0 DMSize=72
+   component type=RISC_CMODEL model=sum3_B DMStart = 3738 DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3748 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 37CA DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3812 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 385A DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 38DC DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3924 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 396C DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 39B4 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 39FC DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3A44 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3A8C DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3B0E DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3B56 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3BD8 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3C20 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3C68 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3CB0 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3D32 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3D7A DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3DC2 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3E0A DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3E8C DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3ED4 DMSize=72
+   component type=RISC_CMODEL model=DFT DMStart = 3F1C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 40FC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 42DC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 44BC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 469C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 487C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 4A5C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 4C3C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 4E1C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 4FFC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 51DC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 53BC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 559C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 577C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 595C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5B3C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5D1C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5EFC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 60DC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 62BC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 649C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 667C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 685C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6A3C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6C1C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6DFC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6FDC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 71BC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 739C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 757C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 775C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 793C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7B1C DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7CFC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7EDC DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 80BC DMSize=480
+
+
+RISC CONTROLS COMPONENTS(proc 2) --> GPC Card #2 Processor A
+numberOfModels = 31
+   component type=RISC_CMODEL model=ICONST DMStart = 2D2C DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 2D30 DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 2D34 DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 2D38 DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 2D3C DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 2D40 DMSize=4
+   component type=RISC_CMODEL model=gtfpgav2 DMStart = 2D44 DMSize=524
+   component type=RISC_CMODEL model=FIXVAL DMStart = 2F50 DMSize=6
+   component type=RISC_CMODEL model=ICONST DMStart = 2F56 DMSize=4
+   component type=RISC_CMODEL model=switch_i DMStart = 2F5A DMSize=12
+   component type=RISC_CMODEL model=RCONST DMStart = 2F66 DMSize=4
+   component type=RISC_CMODEL model=slider_f DMStart = 2F6A DMSize=12
+   component type=RISC_CMODEL model=switch_i DMStart = 2F76 DMSize=12
+   component type=RISC_CMODEL model=pushb_i DMStart = 2F82 DMSize=8
+   component type=RISC_CMODEL model=ICONST DMStart = 2F8A DMSize=4
+   component type=RISC_CMODEL model=monoX01 DMStart = 2F8E DMSize=16
+   component type=RISC_CMODEL model=dtdel_cb DMStart = 2F9E DMSize=10
+   component type=RISC_CMODEL model=time_cb DMStart = 2FA8 DMSize=14
+   component type=RISC_CMODEL model=sum3_A DMStart = 2FB6 DMSize=12
+   component type=RISC_CMODEL model=time_cb DMStart = 2FC2 DMSize=14
+   component type=RISC_CMODEL model=logicX02 DMStart = 2FD0 DMSize=12
+   component type=RISC_CMODEL model=sum3_A DMStart = 2FDC DMSize=12
+   component type=RISC_CMODEL model=gain_cb DMStart = 2FE8 DMSize=4
+   component type=RISC_CMODEL model=int2ieee_ DMStart = 2FEC DMSize=4
+   component type=RISC_CMODEL model=abs_cb DMStart = 2FF0 DMSize=2
+   component type=RISC_CMODEL model=compareX03 DMStart = 2FF2 DMSize=22
+   component type=RISC_CMODEL model=UPDOWNC DMStart = 3008 DMSize=18
+   component type=RISC_CMODEL model=monoX01 DMStart = 301A DMSize=16
+   component type=RISC_CMODEL model=bit2word_ DMStart = 302A DMSize=10
+   component type=RISC_CMODEL model=sum3_A DMStart = 3034 DMSize=12
+   component type=RISC_CMODEL model=sh_A DMStart = 3040 DMSize=12
+
+
+RISC CONTROLS COMPONENTS(proc 3) --> GPC Card #2 Processor B
+numberOfModels = 122
+   component type=RISC_CMODEL model=sum3_B DMStart = 2F6A DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 2F7A DMSize=130
+   component type=RISC_CMODEL model=sum3_B DMStart = 2FFC DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 300C DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 308E DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 30D6 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 311E DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 31A0 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 31E8 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3230 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3278 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 32C0 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3308 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3350 DMSize=130
+   component type=RISC_CMODEL model=sum3_B DMStart = 33D2 DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 33E2 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3464 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 34AC DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 34F4 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3576 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 35BE DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3606 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 364E DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 36D0 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3718 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3760 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 37A8 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 382A DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3872 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 38BA DMSize=72
+   component type=RISC_CMODEL model=sum3_B DMStart = 3902 DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3912 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3994 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 39DC DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3A24 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3AA6 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3AEE DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3B36 DMSize=72
+   component type=RISC_CMODEL model=sum3_B DMStart = 3B7E DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3B8E DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3C10 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3C58 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3CA0 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3D22 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3D6A DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3DB2 DMSize=72
+   component type=RISC_CMODEL model=sum3_B DMStart = 3DFA DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3E0A DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3E8C DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3ED4 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 3F1C DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3F9E DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3FE6 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 402E DMSize=72
+   component type=RISC_CMODEL model=sum3_B DMStart = 4076 DMSize=16
+   component type=RISC_CMODEL model=PLLv2 DMStart = 4086 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 4108 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 4150 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 4198 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 41E0 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 4228 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 4270 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 42F2 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 433A DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 4382 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 43CA DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 444C DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 4494 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 44DC DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 4524 DMSize=130
+   component type=RISC_CMODEL model=BWFILTER DMStart = 45A6 DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 45EE DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 4636 DMSize=72
+   component type=RISC_CMODEL model=PLLv2 DMStart = 467E DMSize=130
+   component type=RISC_CMODEL model=DFT DMStart = 4700 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 48E0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 4AC0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 4CA0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 4E80 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5060 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5240 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5420 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5600 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 57E0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 59C0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5BA0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5D80 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 5F60 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6140 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6320 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6500 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 66E0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 68C0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6AA0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6C80 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 6E60 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7040 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7220 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7400 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 75E0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 77C0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 79A0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7B80 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7D60 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 7F40 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 8120 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 8300 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 84E0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 86C0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 88A0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 8A80 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 8C60 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 8E40 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 9020 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 9200 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 93E0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 95C0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 97A0 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 9980 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 9B60 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 9D40 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 9F20 DMSize=480
+
+
+RISC CONTROLS COMPONENTS(proc 4) --> GPC Card #3 Processor A
+numberOfModels = 245
+   component type=RISC_CMODEL model=ICONST DMStart = 3020 DMSize=4
+   component type=RISC_CMODEL model=switch_i DMStart = 3024 DMSize=12
+   component type=RISC_CMODEL model=RCONST DMStart = 3030 DMSize=4
+   component type=RISC_CMODEL model=slider_f DMStart = 3034 DMSize=12
+   component type=RISC_CMODEL model=RCONST DMStart = 3040 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3044 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3048 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 304C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3050 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3054 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3058 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 305C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3060 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3064 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3068 DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 306C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3070 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3074 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3078 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 307C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3080 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3084 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3088 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 308C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3090 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3094 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3098 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 309C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30A0 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30A4 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30A8 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30AC DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30B0 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30B4 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30B8 DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 30BC DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30C0 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30C4 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30C8 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30CC DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30D0 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30D4 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30D8 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30DC DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30E0 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30E4 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30E8 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30EC DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30F0 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30F4 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30F8 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 30FC DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3100 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3104 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3108 DMSize=4
+   component type=RISC_CMODEL model=ICONST DMStart = 310C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3110 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3114 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3118 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 311C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3120 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3124 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3128 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 312C DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3130 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 3134 DMSize=4
+   component type=RISC_CMODEL model=gain_cb DMStart = 3138 DMSize=4
+   component type=RISC_CMODEL model=BWFILTER DMStart = 313C DMSize=72
+   component type=RISC_CMODEL model=BWFILTER DMStart = 3184 DMSize=72
+   component type=RISC_CMODEL model=rms_meter DMStart = 31CC DMSize=68
+   component type=RISC_CMODEL model=mul_B DMStart = 3210 DMSize=6
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 3216 DMSize=10
+   component type=RISC_CMODEL model=mul_B DMStart = 3220 DMSize=6
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 3226 DMSize=10
+   component type=RISC_CMODEL model=gain_cb DMStart = 3230 DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 3234 DMSize=30
+   component type=RISC_CMODEL model=sum3_B DMStart = 3252 DMSize=16
+   component type=RISC_CMODEL model=rms_meter DMStart = 3262 DMSize=68
+   component type=RISC_CMODEL model=mul_B DMStart = 32A6 DMSize=6
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 32AC DMSize=10
+   component type=RISC_CMODEL model=mul_B DMStart = 32B6 DMSize=6
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 32BC DMSize=10
+   component type=RISC_CMODEL model=gain_cb DMStart = 32C6 DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 32CA DMSize=30
+   component type=RISC_CMODEL model=sum3_B DMStart = 32E8 DMSize=16
+   component type=RISC_CMODEL model=rms_meter DMStart = 32F8 DMSize=68
+   component type=RISC_CMODEL model=mul_B DMStart = 333C DMSize=6
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 3342 DMSize=10
+   component type=RISC_CMODEL model=mul_B DMStart = 334C DMSize=6
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 3352 DMSize=10
+   component type=RISC_CMODEL model=gain_cb DMStart = 335C DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 3360 DMSize=30
+   component type=RISC_CMODEL model=sum3_B DMStart = 337E DMSize=16
+   component type=RISC_CMODEL model=gain_cb DMStart = 338E DMSize=4
+   component type=RISC_CMODEL model=gain_cb DMStart = 3392 DMSize=4
+   component type=RISC_CMODEL model=rms_meter DMStart = 3396 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 33DA DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 341E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3462 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 34A6 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 34EA DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 352E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3572 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 35B6 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 35FA DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 363E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3682 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 36C6 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 370A DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 374E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3792 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 37D6 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 381A DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 385E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 38A2 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 38E6 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 392A DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 396E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 39B2 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 39F6 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3A3A DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3A7E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3AC2 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3B06 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3B4A DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3B8E DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3BD2 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3C16 DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3C5A DMSize=68
+   component type=RISC_CMODEL model=rms_meter DMStart = 3C9E DMSize=68
+   component type=RISC_CMODEL model=PQmeter1PH DMStart = 3CE2 DMSize=92
+   component type=RISC_CMODEL model=PQmeter1PH DMStart = 3D3E DMSize=92
+   component type=RISC_CMODEL model=PQmeter1PH DMStart = 3D9A DMSize=92
+   component type=RISC_CMODEL model=time_cb DMStart = 3DF6 DMSize=14
+   component type=RISC_CMODEL model=DFT DMStart = 3E04 DMSize=480
+   component type=RISC_CMODEL model=DFT DMStart = 3FE4 DMSize=480
+   component type=RISC_CMODEL model=compareX04 DMStart = 41C4 DMSize=22
+   component type=RISC_CMODEL model=mul_B DMStart = 41DA DMSize=6
+   component type=RISC_CMODEL model=compareX04 DMStart = 41E0 DMSize=22
+   component type=RISC_CMODEL model=mul_B DMStart = 41F6 DMSize=6
+   component type=RISC_CMODEL model=compareX04 DMStart = 41FC DMSize=22
+   component type=RISC_CMODEL model=mul_B DMStart = 4212 DMSize=6
+   component type=RISC_CMODEL model=sum3_B DMStart = 4218 DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 4228 DMSize=16
+   component type=RISC_CMODEL model=gain_cb DMStart = 4238 DMSize=4
+   component type=RISC_CMODEL model=gain_cb DMStart = 423C DMSize=4
+   component type=RISC_CMODEL model=gain_cb DMStart = 4240 DMSize=4
+   component type=RISC_CMODEL model=gain_cb DMStart = 4244 DMSize=4
+   component type=RISC_CMODEL model=gain_cb DMStart = 4248 DMSize=4
+   component type=RISC_CMODEL model=gain_cb DMStart = 424C DMSize=4
+   component type=RISC_CMODEL model=abs_cb DMStart = 4250 DMSize=2
+   component type=RISC_CMODEL model=abs_cb DMStart = 4252 DMSize=2
+   component type=RISC_CMODEL model=abs_cb DMStart = 4254 DMSize=2
+   component type=RISC_CMODEL model=sum3_B DMStart = 4256 DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 4266 DMSize=16
+   component type=RISC_CMODEL model=RI2MAC DMStart = 4276 DMSize=190
+   component type=RISC_CMODEL model=RI2MAC DMStart = 4334 DMSize=190
+   component type=RISC_CMODEL model=RI2MAC DMStart = 43F2 DMSize=190
+   component type=RISC_CMODEL model=RI2MAC DMStart = 44B0 DMSize=190
+   component type=RISC_CMODEL model=compareX04 DMStart = 456E DMSize=22
+   component type=RISC_CMODEL model=compareX04 DMStart = 4584 DMSize=22
+   component type=RISC_CMODEL model=compareX04 DMStart = 459A DMSize=22
+   component type=RISC_CMODEL model=sine_cb DMStart = 45B0 DMSize=186
+   component type=RISC_CMODEL model=sine_cb DMStart = 466A DMSize=186
+   component type=RISC_CMODEL model=sine_cb DMStart = 4724 DMSize=186
+   component type=RISC_CMODEL model=sine_cb DMStart = 47DE DMSize=186
+   component type=RISC_CMODEL model=sum3_B DMStart = 4898 DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 48A8 DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 48B8 DMSize=16
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 48C8 DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 48CC DMSize=30
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 48EA DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 48EE DMSize=30
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 490C DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 4910 DMSize=30
+   component type=RISC_CMODEL model=compareX04 DMStart = 492E DMSize=22
+   component type=RISC_CMODEL model=compareX04 DMStart = 4944 DMSize=22
+   component type=RISC_CMODEL model=compareX04 DMStart = 495A DMSize=22
+   component type=RISC_CMODEL model=mul_B DMStart = 4970 DMSize=6
+   component type=RISC_CMODEL model=mul_B DMStart = 4976 DMSize=6
+   component type=RISC_CMODEL model=mul_B DMStart = 497C DMSize=6
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 4982 DMSize=10
+   component type=RISC_CMODEL model=compareX03 DMStart = 498C DMSize=22
+   component type=RISC_CMODEL model=gain_cb DMStart = 49A2 DMSize=4
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 49A6 DMSize=10
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 49B0 DMSize=10
+   component type=RISC_CMODEL model=compareX03 DMStart = 49BA DMSize=22
+   component type=RISC_CMODEL model=gain_cb DMStart = 49D0 DMSize=4
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 49D4 DMSize=10
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 49DE DMSize=10
+   component type=RISC_CMODEL model=compareX03 DMStart = 49E8 DMSize=22
+   component type=RISC_CMODEL model=gain_cb DMStart = 49FE DMSize=4
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 4A02 DMSize=10
+   component type=RISC_CMODEL model=sigsw_cb DMStart = 4A0C DMSize=10
+   component type=RISC_CMODEL model=sigsw_cb DMStart = 4A16 DMSize=10
+   component type=RISC_CMODEL model=sigsw_cb DMStart = 4A20 DMSize=10
+   component type=RISC_CMODEL model=sum3_B DMStart = 4A2A DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 4A3A DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 4A4A DMSize=16
+   component type=RISC_CMODEL model=intgl_cb DMStart = 4A5A DMSize=30
+   component type=RISC_CMODEL model=gain_cb DMStart = 4A78 DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 4A7C DMSize=30
+   component type=RISC_CMODEL model=gain_cb DMStart = 4A9A DMSize=4
+   component type=RISC_CMODEL model=intgl_cb DMStart = 4A9E DMSize=30
+   component type=RISC_CMODEL model=gain_cb DMStart = 4ABC DMSize=4
+   component type=RISC_CMODEL model=sum3_B DMStart = 4AC0 DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 4AD0 DMSize=16
+   component type=RISC_CMODEL model=sum3_B DMStart = 4AE0 DMSize=16
+   component type=RISC_CMODEL model=limits_cb DMStart = 4AF0 DMSize=12
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 4AFC DMSize=10
+   component type=RISC_CMODEL model=limits_cb DMStart = 4B06 DMSize=12
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 4B12 DMSize=10
+   component type=RISC_CMODEL model=limits_cb DMStart = 4B1C DMSize=12
+   component type=RISC_CMODEL model=xdivy_cb DMStart = 4B28 DMSize=10
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 4B32 DMSize=4
+   component type=RISC_CMODEL model=logicX02 DMStart = 4B36 DMSize=12
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 4B42 DMSize=4
+   component type=RISC_CMODEL model=logicX02 DMStart = 4B46 DMSize=12
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 4B52 DMSize=4
+   component type=RISC_CMODEL model=logicX02 DMStart = 4B56 DMSize=12
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 4B62 DMSize=10
+   component type=RISC_CMODEL model=sigsw_cb DMStart = 4B6C DMSize=10
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 4B76 DMSize=4
+   component type=RISC_CMODEL model=limits_cb DMStart = 4B7A DMSize=12
+   component type=RISC_CMODEL model=int2ieee_ DMStart = 4B86 DMSize=4
+   component type=RISC_CMODEL model=int2ieee_ DMStart = 4B8A DMSize=4
+   component type=RISC_CMODEL model=mul_B DMStart = 4B8E DMSize=6
+   component type=RISC_CMODEL model=sum3_B DMStart = 4B94 DMSize=16
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 4BA4 DMSize=10
+   component type=RISC_CMODEL model=sigsw_cb DMStart = 4BAE DMSize=10
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 4BB8 DMSize=4
+   component type=RISC_CMODEL model=limits_cb DMStart = 4BBC DMSize=12
+   component type=RISC_CMODEL model=int2ieee_ DMStart = 4BC8 DMSize=4
+   component type=RISC_CMODEL model=int2ieee_ DMStart = 4BCC DMSize=4
+   component type=RISC_CMODEL model=mul_B DMStart = 4BD0 DMSize=6
+   component type=RISC_CMODEL model=sum3_B DMStart = 4BD6 DMSize=16
+   component type=RISC_CMODEL model=sigsw2_cb DMStart = 4BE6 DMSize=10
+   component type=RISC_CMODEL model=sigsw_cb DMStart = 4BF0 DMSize=10
+   component type=RISC_CMODEL model=ieee2int_ DMStart = 4BFA DMSize=4
+   component type=RISC_CMODEL model=limits_cb DMStart = 4BFE DMSize=12
+   component type=RISC_CMODEL model=int2ieee_ DMStart = 4C0A DMSize=4
+   component type=RISC_CMODEL model=int2ieee_ DMStart = 4C0E DMSize=4
+   component type=RISC_CMODEL model=mul_B DMStart = 4C12 DMSize=6
+   component type=RISC_CMODEL model=sum3_B DMStart = 4C18 DMSize=16
+   component type=RISC_CMODEL model=gtnetskt DMStart = 4C28 DMSize=4260
+
+
+RISC CONTROLS COMPONENTS(proc 5) --> GPC Card #3 Processor B
+numberOfModels = 12
+   component type=RISC_CMODEL model=_dyload1P1 name=load_692_c DMStart = 2D5C DMSize=306
+   component type=RISC_CMODEL model=matpi4 name=632to671b DMStart = 2E8E DMSize=6600
+   component type=RISC_CMODEL model=matpi4 name=671to680 DMStart = 4856 DMSize=6600
+   component type=RISC_CMODEL model=matpi4 name=692to675 DMStart = 621E DMSize=6600
+   component type=RISC_CMODEL model=matpi4 name=671to684 DMStart = 7BE6 DMSize=6600
+   component type=RISC_CMODEL model=_dyload1P1 name=load_675_c DMStart = 95AE DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_675_a DMStart = 96E0 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_675_b DMStart = 9812 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_671_c DMStart = 9944 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_671_b DMStart = 9A76 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_671_a DMStart = 9BA8 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_dis_b_a DMStart = 9CDA DMSize=306
+
+
+RISC CONTROLS COMPONENTS(proc 6) --> GPC Card #4 Processor A
+numberOfModels = 11
+   component type=RISC_CMODEL model=trf3p2wI name=TRF1 DMStart = 2D50 DMSize=1248
+   component type=RISC_CMODEL model=matpi4 name=650to632 DMStart = 3230 DMSize=6600
+   component type=RISC_CMODEL model=matpi4 name=632to645 DMStart = 4BF8 DMSize=6600
+   component type=RISC_CMODEL model=matpi4 name=632to671a DMStart = 65C0 DMSize=6600
+   component type=RISC_CMODEL model=matpi4 name=632to633 DMStart = 7F88 DMSize=6600
+   component type=RISC_CMODEL model=_dyload1P1 name=load_dis_b_b DMStart = 9950 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_dis_b_c DMStart = 9A82 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_645_b DMStart = 9BB4 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_dis_a_a DMStart = 9CE6 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_dis_a_b DMStart = 9E18 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_dis_a_c DMStart = 9F4A DMSize=306
+
+
+RISC CONTROLS COMPONENTS(proc 7) --> GPC Card #4 Processor B
+numberOfModels = 19
+   component type=RISC_CMODEL model=ICONST DMStart = 2D60 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 2D64 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 2D68 DMSize=4
+   component type=RISC_CMODEL model=RCONST DMStart = 2D6C DMSize=4
+   component type=RISC_CMODEL model=voltReg1p name=T1 DMStart = 2D70 DMSize=208
+   component type=RISC_CMODEL model=voltReg1p name=T2 DMStart = 2E40 DMSize=208
+   component type=RISC_CMODEL model=voltReg1p name=T3 DMStart = 2F10 DMSize=208
+   component type=RISC_CMODEL model=_dyload1P1 name=Load_646_b DMStart = 2FE0 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_652_a DMStart = 3112 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_611_c DMStart = 3244 DMSize=306
+   component type=RISC_CMODEL model=trf3p2wI name=Substation DMStart = 3376 DMSize=1248
+
+RISC-based CModel Component: src3p named "src"
+	Initial Inductance (parallel) =   0.000000 H
+	Initial Resistance (parallel) =   0.000000 Ohm
+	Initial Resistance (series)   =   0.001000 Ohm
+   component type=RISC_CMODEL model=src3P name=src DMStart = 3856 DMSize=1512
+   component type=RISC_CMODEL model=matpi4 name=645to646 DMStart = 3E3E DMSize=6600
+   component type=RISC_CMODEL model=_dyload1P1 name=load_634_c DMStart = 5806 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_634_b DMStart = 5938 DMSize=306
+   component type=RISC_CMODEL model=_dyload1P1 name=load_634_a DMStart = 5A6A DMSize=306
+
+RISC-based CModel Component: src1p named "Vreg1C"
+	Initial Inductance (parallel) =   0.000000 H
+	Initial Resistance (parallel) =   0.000000 Ohm
+	Initial Resistance (series)   =   0.000001 Ohm
+   component type=RISC_CMODEL model=src1p name=Vreg1C DMStart = 5B9C DMSize=484
+
+RISC-based CModel Component: src1p named "Vreg1B"
+	Initial Inductance (parallel) =   0.000000 H
+	Initial Resistance (parallel) =   0.000000 Ohm
+	Initial Resistance (series)   =   0.000001 Ohm
+   component type=RISC_CMODEL model=src1p name=Vreg1B DMStart = 5D80 DMSize=484
+
+RISC-based CModel Component: src1p named "Vreg1A"
+	Initial Inductance (parallel) =   0.000000 H
+	Initial Resistance (parallel) =   0.000000 Ohm
+	Initial Resistance (series)   =   0.000001 Ohm
+   component type=RISC_CMODEL model=src1p name=Vreg1A DMStart = 5F64 DMSize=484

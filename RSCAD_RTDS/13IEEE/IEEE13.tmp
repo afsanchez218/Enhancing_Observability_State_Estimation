@@ -1,0 +1,534 @@
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=0 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=0 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=0 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=0 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=0 processor_type=GPC clock_index=5 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=1::_1 component_type=netsolCB subsystem=1 processor=0 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=100.000000 description=NetworkSolution
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=1 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=2 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=1 processor_type=GPC clock_index=3 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=4 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=5 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=6 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=7 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=8 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=9 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=10 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=11 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=12 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=13 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=14 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=15 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=16 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=17 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=18 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=19 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=20 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=1 processor_type=GPC clock_index=21 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=22 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=23 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=24 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=25 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=26 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=27 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=28 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=1 processor_type=GPC clock_index=29 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=30 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=31 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=32 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=33 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=34 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=35 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=36 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=37 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=38 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=39 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=40 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=41 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=42 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=43 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=44 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=45 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=46 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=47 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=48 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=49 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=1 processor_type=GPC clock_index=50 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=51 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=1 processor_type=GPC clock_index=52 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=53 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=54 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=55 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=56 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=57 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=58 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=59 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=60 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=61 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=62 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=63 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=64 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=65 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=66 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=67 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=68 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=69 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=70 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=71 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=72 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=73 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=74 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=75 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=76 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=77 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=78 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=79 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=80 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=81 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=82 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=83 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=84 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=85 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=86 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=87 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=1 processor_type=GPC clock_index=88 enabled=true use=CTLS lf=-1.000000 logical_proc=5
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=5 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=6 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=gtfpgav2 subsystem=1 processor=2 processor_type=GPC clock_index=7 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=FIXVAL subsystem=1 processor=2 processor_type=GPC clock_index=8 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=9 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=2 processor_type=GPC clock_index=10 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=2 processor_type=GPC clock_index=11 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=slider_f subsystem=1 processor=2 processor_type=GPC clock_index=12 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=2 processor_type=GPC clock_index=13 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=pushb_i subsystem=1 processor=2 processor_type=GPC clock_index=14 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=2 processor_type=GPC clock_index=15 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=monoX01 subsystem=1 processor=2 processor_type=GPC clock_index=16 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=dtdel_cb subsystem=1 processor=2 processor_type=GPC clock_index=17 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=time_cb subsystem=1 processor=2 processor_type=GPC clock_index=18 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_A subsystem=1 processor=2 processor_type=GPC clock_index=19 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=time_cb subsystem=1 processor=2 processor_type=GPC clock_index=20 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=2 processor_type=GPC clock_index=21 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_A subsystem=1 processor=2 processor_type=GPC clock_index=22 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=2 processor_type=GPC clock_index=23 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=2 processor_type=GPC clock_index=24 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=2 processor_type=GPC clock_index=25 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=2 processor_type=GPC clock_index=26 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=UPDOWNC subsystem=1 processor=2 processor_type=GPC clock_index=27 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=monoX01 subsystem=1 processor=2 processor_type=GPC clock_index=28 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=bit2word_ subsystem=1 processor=2 processor_type=GPC clock_index=29 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_A subsystem=1 processor=2 processor_type=GPC clock_index=30 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sh_A subsystem=1 processor=2 processor_type=GPC clock_index=31 enabled=true use=CTLS lf=-1.000000 logical_proc=9
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=1 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=2 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=3 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=4 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=5 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=6 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=7 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=8 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=9 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=10 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=11 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=12 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=13 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=14 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=15 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=16 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=17 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=18 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=19 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=20 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=21 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=22 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=23 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=24 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=25 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=26 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=27 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=28 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=29 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=30 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=31 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=32 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=33 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=34 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=35 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=36 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=37 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=38 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=39 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=40 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=41 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=42 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=43 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=44 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=45 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=46 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=47 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=48 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=49 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=50 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=51 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=52 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=53 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=54 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=3 processor_type=GPC clock_index=55 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=56 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=57 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=58 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=59 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=60 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=61 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=62 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=63 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=64 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=65 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=66 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=67 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=68 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=69 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=70 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=71 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=72 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=3 processor_type=GPC clock_index=73 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=PLLv2 subsystem=1 processor=3 processor_type=GPC clock_index=74 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=75 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=76 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=77 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=78 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=79 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=80 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=81 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=82 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=83 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=84 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=85 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=86 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=87 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=88 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=89 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=90 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=91 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=92 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=93 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=94 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=95 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=96 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=97 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=98 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=99 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=100 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=101 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=102 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=103 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=104 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=105 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=106 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=107 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=108 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=109 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=110 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=111 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=112 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=113 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=114 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=115 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=116 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=117 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=118 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=119 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=120 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=121 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=3 processor_type=GPC clock_index=122 enabled=true use=CTLS lf=-1.000000 logical_proc=6
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=switch_i subsystem=1 processor=4 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=slider_f subsystem=1 processor=4 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=5 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=6 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=7 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=8 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=9 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=10 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=11 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=12 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=13 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=14 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=15 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=16 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=17 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=18 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=19 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=20 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=21 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=22 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=23 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=24 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=25 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=26 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=27 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=28 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=29 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=30 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=31 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=32 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=33 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=34 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=35 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=36 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=37 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=38 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=39 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=40 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=41 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=42 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=43 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=44 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=45 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=46 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=47 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=48 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=49 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=50 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=51 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=52 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=53 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=54 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=55 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=4 processor_type=GPC clock_index=56 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=57 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=58 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=59 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=60 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=61 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=62 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=63 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=64 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=65 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=4 processor_type=GPC clock_index=66 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=67 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=4 processor_type=GPC clock_index=68 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=BWFILTER subsystem=1 processor=4 processor_type=GPC clock_index=69 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=70 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=71 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=72 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=73 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=74 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=75 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=76 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=77 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=78 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=79 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=80 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=81 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=82 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=83 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=84 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=85 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=86 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=87 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=88 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=89 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=90 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=91 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=92 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=93 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=94 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=95 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=96 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=97 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=98 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=99 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=100 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=101 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=102 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=103 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=104 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=105 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=106 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=107 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=108 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=109 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=110 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=111 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=112 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=113 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=114 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=115 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=116 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=117 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=118 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=119 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=120 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=121 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=122 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=123 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=124 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=125 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=126 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=127 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=128 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=129 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=rms_meter subsystem=1 processor=4 processor_type=GPC clock_index=130 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=PQmeter1PH subsystem=1 processor=4 processor_type=GPC clock_index=131 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=PQmeter1PH subsystem=1 processor=4 processor_type=GPC clock_index=132 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=PQmeter1PH subsystem=1 processor=4 processor_type=GPC clock_index=133 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=time_cb subsystem=1 processor=4 processor_type=GPC clock_index=134 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=4 processor_type=GPC clock_index=135 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=DFT subsystem=1 processor=4 processor_type=GPC clock_index=136 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=137 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=138 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=139 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=140 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=141 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=142 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=143 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=144 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=145 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=146 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=147 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=148 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=149 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=150 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=4 processor_type=GPC clock_index=151 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=4 processor_type=GPC clock_index=152 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=abs_cb subsystem=1 processor=4 processor_type=GPC clock_index=153 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=154 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=155 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=156 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=157 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=158 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=RI2MAC subsystem=1 processor=4 processor_type=GPC clock_index=159 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=160 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=161 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=162 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=163 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=164 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=165 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sine_cb subsystem=1 processor=4 processor_type=GPC clock_index=166 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=167 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=168 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=169 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=170 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=171 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=172 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=173 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=174 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=175 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=176 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=177 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX04 subsystem=1 processor=4 processor_type=GPC clock_index=178 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=179 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=180 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=181 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=182 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=4 processor_type=GPC clock_index=183 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=184 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=185 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=186 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=4 processor_type=GPC clock_index=187 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=188 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=189 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=190 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=compareX03 subsystem=1 processor=4 processor_type=GPC clock_index=191 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=192 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=193 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=194 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=195 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=196 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=197 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=198 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=199 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=200 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=201 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=202 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=203 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=intgl_cb subsystem=1 processor=4 processor_type=GPC clock_index=204 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gain_cb subsystem=1 processor=4 processor_type=GPC clock_index=205 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=206 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=207 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=208 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=209 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=210 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=211 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=212 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=213 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=xdivy_cb subsystem=1 processor=4 processor_type=GPC clock_index=214 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=215 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=4 processor_type=GPC clock_index=216 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=217 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=4 processor_type=GPC clock_index=218 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=219 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=logicX02 subsystem=1 processor=4 processor_type=GPC clock_index=220 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=221 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=222 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=223 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=224 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=225 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=226 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=227 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=228 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=229 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=230 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=231 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=232 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=233 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=234 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=235 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=236 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw2_cb subsystem=1 processor=4 processor_type=GPC clock_index=237 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sigsw_cb subsystem=1 processor=4 processor_type=GPC clock_index=238 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=ieee2int_ subsystem=1 processor=4 processor_type=GPC clock_index=239 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=limits_cb subsystem=1 processor=4 processor_type=GPC clock_index=240 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=241 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=int2ieee_ subsystem=1 processor=4 processor_type=GPC clock_index=242 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=mul_B subsystem=1 processor=4 processor_type=GPC clock_index=243 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=sum3_B subsystem=1 processor=4 processor_type=GPC clock_index=244 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=(null) component_type=gtnetskt subsystem=1 processor=4 processor_type=GPC clock_index=245 enabled=true use=CTLS lf=-1.000000 logical_proc=1
+timing_record: timing_name=load_692_c component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=1 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=632to671b component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=2 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=671to680 component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=3 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=692to675 component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=4 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=671to684 component_type=matpi4 subsystem=1 processor=5 processor_type=GPC clock_index=5 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=load_675_c component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_675_a component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=7 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_675_b component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=8 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_671_c component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=9 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_671_b component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=10 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_671_a component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=11 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_b_a component_type=_dyload1P1 subsystem=1 processor=5 processor_type=GPC clock_index=12 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=TRF1 component_type=trf3p2wI subsystem=1 processor=6 processor_type=GPC clock_index=1 enabled=true use=PSYS lf=10.000000 description=Transformer
+timing_record: timing_name=650to632 component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=2 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=632to645 component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=3 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=632to671a component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=4 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=632to633 component_type=matpi4 subsystem=1 processor=6 processor_type=GPC clock_index=5 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=load_dis_b_b component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_b_c component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=7 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_645_b component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=8 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_a_a component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=9 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_a_b component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=10 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_dis_a_c component_type=_dyload1P1 subsystem=1 processor=6 processor_type=GPC clock_index=11 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=(null) component_type=ICONST subsystem=1 processor=7 processor_type=GPC clock_index=1 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=7 processor_type=GPC clock_index=2 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=7 processor_type=GPC clock_index=3 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=(null) component_type=RCONST subsystem=1 processor=7 processor_type=GPC clock_index=4 enabled=false use=CTLS lf=0.000000
+timing_record: timing_name=T1 component_type=voltReg1p subsystem=1 processor=7 processor_type=GPC clock_index=5 enabled=true use=PSYS lf=3.000000
+timing_record: timing_name=T2 component_type=voltReg1p subsystem=1 processor=7 processor_type=GPC clock_index=6 enabled=true use=PSYS lf=3.000000
+timing_record: timing_name=T3 component_type=voltReg1p subsystem=1 processor=7 processor_type=GPC clock_index=7 enabled=true use=PSYS lf=3.000000
+timing_record: timing_name=Load_646_b component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=8 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_652_a component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=9 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_611_c component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=10 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=Substation component_type=trf3p2wI subsystem=1 processor=7 processor_type=GPC clock_index=11 enabled=true use=PSYS lf=10.000000 description=Transformer
+timing_record: timing_name=src component_type=src3P subsystem=1 processor=7 processor_type=GPC clock_index=12 enabled=true use=PSYS lf=10.000000 description=Source
+timing_record: timing_name=645to646 component_type=matpi4 subsystem=1 processor=7 processor_type=GPC clock_index=13 enabled=true use=PSYS lf=15.000000
+timing_record: timing_name=load_634_c component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=14 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_634_b component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=15 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=load_634_a component_type=_dyload1P1 subsystem=1 processor=7 processor_type=GPC clock_index=16 enabled=true use=PSYS lf=5.000000 description=DynamicLoad
+timing_record: timing_name=Vreg1C component_type=src1p subsystem=1 processor=7 processor_type=GPC clock_index=17 enabled=true use=PSYS lf=5.000000 description=Source
+timing_record: timing_name=Vreg1B component_type=src1p subsystem=1 processor=7 processor_type=GPC clock_index=18 enabled=true use=PSYS lf=5.000000 description=Source
+timing_record: timing_name=Vreg1A component_type=src1p subsystem=1 processor=7 processor_type=GPC clock_index=19 enabled=true use=PSYS lf=5.000000 description=Source
