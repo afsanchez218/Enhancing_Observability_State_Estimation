@@ -1,0 +1,5 @@
+Time	float
+Load1	float
+Load2	float
+Load3	float
+Load4	float
